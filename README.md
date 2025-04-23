@@ -18,7 +18,7 @@
 
 # Copy file vào Userdata của OpenHAB
 
-`mkdir /var/lib/openhab/amlich`
-`wget https://raw.githubusercontent.com/NghiaMaster/OpenHAB-Lunar-Calendar/refs/heads/main/OpenHABLunarCalendar.py`
-`cp OpenHABLunarCalendar.py /var/lib/openhab/amlich/`
-`chown openhab:openhab /var/lib/openhab/amlich/OpenHABLunarCalendar.py`
+- `mkdir /var/lib/openhab/amlich`
+- `wget https://raw.githubusercontent.com/NghiaMaster/OpenHAB-Lunar-Calendar/refs/heads/main/OpenHABLunarCalendar.py`
+- `cp OpenHABLunarCalendar.py /var/lib/openhab/amlich/`
+- `chown openhab:openhab /var/lib/openhab/amlich/OpenHABLunarCalendar.py`
